@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAMA,OAAO,CAAC,qCAAI",
+    "sources": [
+        "new.scss",
+        "../node_modules/bootstrap/scss/_functions.scss"
+    ],
+    "names": [],
+    "file": "new.css"
+}
